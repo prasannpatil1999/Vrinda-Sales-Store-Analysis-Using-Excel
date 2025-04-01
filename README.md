@@ -61,7 +61,7 @@ The data for the "Vrinda Sales Store Analysis" project is sourced from the "Vrin
 ### Insights & Findings
 - March month has high sales
 - March month has high orders
-- In vrinda's online store Males have bought higher revenue products
+- In vrinda's online store Women have made higher sales
 - Delivered type of order status has high count of fullfillment
 - Top 3 States by sales are Karnataka, Maharashtra, and Utatr Pradesh
 - Top 3 Channels by sales are Amazon, Myntra, and Flipkart
